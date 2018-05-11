@@ -1,0 +1,15 @@
+{
+  "name": "rummykhan/trip-sorter",
+  "authors": [
+    {
+      "name": "Rummy Khan",
+      "email": "rehan_manzoor@outlook.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RummyKhan\\TripSorter\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}

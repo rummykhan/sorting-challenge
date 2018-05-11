@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "larapack/dd": "^1.1",
+    "rummykhan/trip-sorter": "@dev"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "packages/trip-sorter"
+    }
+  ]
+}

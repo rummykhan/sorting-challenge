@@ -1,0 +1,92 @@
+[
+  {
+    "from": "C",
+    "to": "D",
+    "transportation_type": "Bus",
+    "transportation_number": "71A",
+    "seat_number": "71A",
+    "gate_number": "71A",
+    "luggage_counter": "71A"
+  },
+  {
+    "from": "E",
+    "to": "F",
+    "transportation_type": "Flight",
+    "transportation_number": "72C",
+    "seat_number": "72C",
+    "gate_number": "72C",
+    "luggage_counter": "72C"
+  },
+  {
+    "from": "D",
+    "to": "E",
+    "transportation_type": "Flight",
+    "transportation_number": "78A",
+    "seat_number": "78A",
+    "gate_number": "78A",
+    "luggage_counter": "78A"
+  },
+  {
+    "from": "I",
+    "to": "J",
+    "transportation_type": "Bus",
+    "transportation_number": "91A",
+    "seat_number": "91A",
+    "gate_number": "91A",
+    "luggage_counter": "91A"
+  },
+  {
+    "from": "G",
+    "to": "H",
+    "transportation_type": "Bus",
+    "transportation_number": "90P",
+    "seat_number": "90P",
+    "gate_number": "90P",
+    "luggage_counter": "90P"
+  },
+  {
+    "from": "H",
+    "to": "I",
+    "transportation_type": "Flight",
+    "transportation_number": "7188D",
+    "seat_number": "7188D",
+    "gate_number": "7188D",
+    "luggage_counter": "7188D"
+  },
+  {
+    "from": "J",
+    "to": "K",
+    "transportation_type": "Flight",
+    "transportation_number": "4571X",
+    "seat_number": "4571X",
+    "gate_number": "4571X",
+    "luggage_counter": "4571X"
+  },
+  {
+    "from": "B",
+    "to": "C",
+    "transportation_type": "Flight",
+    "transportation_number": "791C",
+    "seat_number": "791C",
+    "gate_number": "791C",
+    "luggage_counter": "791C"
+  },
+  {
+    "from": "F",
+    "to": "G",
+    "transportation_type": "Flight",
+    "transportation_number": "61A",
+    "seat_number": "61A",
+    "gate_number": "61A",
+    "luggage_counter": "61A"
+  },
+  {
+    "from": "A",
+    "to": "B",
+    "transportation_type": "Bus",
+    "transportation_number": "90H",
+    "seat_number": "90H",
+    "gate_number": "90H",
+    "luggage_counter": "90H"
+  }
+]

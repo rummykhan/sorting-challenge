@@ -6,7 +6,7 @@ $json = file_get_contents(__DIR__ . '/assets/tickets.json');
 
 $tickets = json_decode($json, true);
 
-$trip_sorter = new \Aamir\TripSorter\TripSorter();
+$trip_sorter = new \RummyKhan\TripSorter\TripSorter();
 
 $sorted_tickets = $trip_sorter->sort($tickets);
 

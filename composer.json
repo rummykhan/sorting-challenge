@@ -5,7 +5,6 @@
     }
   },
   "require": {
-    "larapack/dd": "^1.1",
     "rummykhan/trip-sorter": "@dev"
   },
   "repositories": [

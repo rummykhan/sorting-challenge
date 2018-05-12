@@ -30,7 +30,7 @@ class TripSorter implements Sortable
 
             $matching_ticket->setNext($ticket);
 
-            $ticketsList[$matching_ticket->getFrom()] = $matching_ticket;
+            $tickets[$matching_ticket->getFrom()] = $matching_ticket;
         }
 
         $output = [];
